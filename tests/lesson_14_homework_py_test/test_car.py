@@ -1,13 +1,11 @@
 from car import Car
 import pytest
 import random
-from faker import Faker
 
 
 class TestCar:
 
     def setup_method(self):
-        fake = Faker()
         self.new_car = Car("Audi", "Q7", random.randint(0, 100000))
 
     def test_start_stopped_engine(self):

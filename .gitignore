@@ -14,9 +14,11 @@ env/
 
 # IDE and editor files
 .idea/
+.idea
 .vscode/
 *.sublime-workspace
 *.sublime-project
+workspace.xml
 
 # Local development settings
 *.bak
