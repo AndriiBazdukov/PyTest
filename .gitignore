@@ -1,0 +1,58 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pydpi
+
+# Python cache directories
+.python-version
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE and editor files
+.idea/
+.idea
+.vscode/
+*.sublime-workspace
+*.sublime-project
+workspace.xml
+
+# Local development settings
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Python distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Environment configuration
+.env
+.env.local
+.env.*.local
+
+# Compiled files and shared libraries (used by some Python packages)
+*.dll
+*.so
+*.dylib
+
+# Dependency directories
+lib/
+libs/
+lib64/
+/tests/lesson_14_homework_py_test/.pytest_cache/.gitignore
+/tests/lesson_14_homework_py_test/.pytest_cache/CACHEDIR.TAG
+/tests/lesson_14_homework_py_test/.pytest_cache/README.md
+/tests/lesson_14_homework_py_test/.pytest_cache/
