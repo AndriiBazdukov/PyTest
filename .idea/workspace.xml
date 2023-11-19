@@ -5,19 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0ba9d5-b356-45aa-8fd8-92e9ba644020" name="Changes" comment="Reb">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/_base_db_connector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/sqlite_cm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deco.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/company_repo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/tests/test_db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/lesson_16_homework_framework/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/lesson_23_homework_db/_base_db_connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/_base_db_connector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/lesson_23_homework_db/sqlite_cm.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -26,9 +34,12 @@
         <entry key="$PROJECT_DIR$/../aqa-lessons" value="lesson_24_homework_docker" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../aqa-lessons" />
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -41,104 +52,102 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;lesson__24__homework__docker&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrey Bazdukov/PycharmProjects/PyTest/tests/lesson_23_homework_db&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Andrey Bazdukov/PycharmProjects/PyTest/tests/lesson_23_homework_db/tests"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey Bazdukov\PycharmProjects\PyTest\tests\lesson_23_homework_db\tests" />
+      <recent name="C:\Users\Andrey Bazdukov\PycharmProjects\PyTest\tests\lesson_23_homework_db\db" />
       <recent name="C:\Users\Andrey Bazdukov\PycharmProjects\PyTest\tests\lesson_23_homework_db" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey Bazdukov\PycharmProjects\PyTest" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_users_api.test_post_new_user">
-    <configuration name="test_users_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyTest" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_20_homework_api_testing/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/lesson_20_homework_api_testing/tests/test_users_api.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_shopping_cart_page.test_total_amount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_db.py">
+    <configuration name="Python tests for test_db.test_record_can_be_deleted" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_23_homework_db/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_shopping_cart_page.test_total_amount&quot;" />
+      <option name="_new_target" value="&quot;test_db.test_record_can_be_deleted&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_shopping_cart_page.test_user_can_decrease_quantity" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_db.test_record_can_be_inserted" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_23_homework_db/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_shopping_cart_page.test_user_can_decrease_quantity&quot;" />
+      <option name="_new_target" value="&quot;test_db.test_record_can_be_inserted&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_shopping_cart_page.test_user_can_not_decrease_quantity_of_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_db.test_record_can_be_updated" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_23_homework_db/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_shopping_cart_page.test_user_can_not_decrease_quantity_of_1&quot;" />
+      <option name="_new_target" value="&quot;test_db.test_record_can_be_updated&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_users_api.test_post_new_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_db.test_table_can_be_created" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_20_homework_api_testing/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_23_homework_db/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_users_api.test_post_new_user&quot;" />
+      <option name="_new_target" value="&quot;test_db.test_table_can_be_created&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_db.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/lesson_23_homework_db/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/lesson_23_homework_db/tests/test_db.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_users_api.test_post_new_user" />
-        <item itemvalue="Python.test_users_api" />
-        <item itemvalue="Python tests.Python tests for test_shopping_cart_page.test_user_can_not_decrease_quantity_of_1" />
-        <item itemvalue="Python tests.Python tests for test_shopping_cart_page.test_user_can_decrease_quantity" />
-        <item itemvalue="Python tests.Python tests for test_shopping_cart_page.test_total_amount" />
+        <item itemvalue="Python tests.Python tests in test_db.py" />
+        <item itemvalue="Python tests.Python tests for test_db.test_table_can_be_created" />
+        <item itemvalue="Python tests.Python tests for test_db.test_record_can_be_deleted" />
+        <item itemvalue="Python tests.Python tests for test_db.test_record_can_be_updated" />
+        <item itemvalue="Python tests.Python tests for test_db.test_record_can_be_inserted" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +160,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696626978092</updated>
     </task>
+    <task id="LOCAL-00001" summary="docker done">
+      <option name="closed" value="true" />
+      <created>1699977213521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699977213521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docker done" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker done" />
   </component>
 </project>
