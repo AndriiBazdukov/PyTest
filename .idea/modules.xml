@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PyTest.iml" filepath="$PROJECT_DIR$/.idea/PyTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aqa-lessons/.idea/aqa-lessons.iml" filepath="$PROJECT_DIR$/../aqa-lessons/.idea/aqa-lessons.iml" />
     </modules>
   </component>
 </project>

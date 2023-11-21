@@ -1,7 +1,7 @@
 import json
 from random import Random
 import pytest
-from tests.lesson_16_homework_framework.constants import ROOT_PATH
+from constants import ROOT_PATH
 from tests.lesson_16_homework_framework.page_objects.main_page import MainPage
 from tests.lesson_16_homework_framework.utilities.dict_to_class import DictToClass
 from tests.lesson_16_homework_framework.utilities.driver_factory import DriverFactory
