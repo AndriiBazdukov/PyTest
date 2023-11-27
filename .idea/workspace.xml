@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df0ba9d5-b356-45aa-8fd8-92e9ba644020" name="Changes" comment="Reb">
-      <change afterPath="$PROJECT_DIR$/deco.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/company_repo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/tests/test_db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/lesson_16_homework_framework/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/lesson_16_homework_framework/tests/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/lesson_23_homework_db/_base_db_connector.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/lesson_23_homework_db/_base_db_connector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/lesson_23_homework_db/sqlite_cm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aqa-lessons/tests/lesson_25/selenoid/config/browsers.json" beforeDir="false" afterPath="$PROJECT_DIR$/../aqa-lessons/tests/lesson_25/selenoid/config/browsers.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,14 +45,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Andrey Bazdukov/PycharmProjects/PyTest/tests/lesson_23_homework_db/tests"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrey Bazdukov/PycharmProjects/PyTest/tests/lesson_23_homework_db/tests&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Andrey Bazdukov\PycharmProjects\PyTest\tests\lesson_23_homework_db\tests" />
