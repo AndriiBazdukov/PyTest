@@ -1,0 +1,28 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Set up') {
+            steps {
+                bat '''call set "PYTHON=C:\\Users\\Andrey Bazdukov\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+                call "%PYTHON%" -m venv venv
+                call venv\\Scripts\\activate
+                call "%PYTHON%" -m pip install -r "C:\\Users\\Andrey Bazdukov\\PycharmProjects\\PyTest\\requirments.txt"
+                call deactivate'''
+            }
+        }
+        stage('Run tests') {
+            steps {
+                bat '''call set "PYTHON=C:\\Users\\Andrey Bazdukov\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+                call venv\\Scripts\\activate
+                call "%PYTHON%" -m pytest "C:\\Users\\Andrey Bazdukov\\PycharmProjects\\PyTest\\tests\\lesson_20_homework_api_testing\\tests"
+                call deactivate'''
+            }
+        }
+        stage('Report') {
+            steps {
+                allure includeProperties: false, jdk: '', results: [[path: 'allure-results']]
+            }
+        }
+    }
+}
