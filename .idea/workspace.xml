@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0ba9d5-b356-45aa-8fd8-92e9ba644020" name="Changes" comment="Reb">
+    <list default="true" id="df0ba9d5-b356-45aa-8fd8-92e9ba644020" name="Changes" comment="Jenkinsfile">
+      <change afterPath="$PROJECT_DIR$/tests/lesson_30_homework_subprocessor/subprocessor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +24,10 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="lesson_23_homework_db" />
-        <entry key="$PROJECT_DIR$/../aqa-lessons" value="lesson_24_homework_docker" />
+        <entry key="$PROJECT_DIR$/../aqa-lessons" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../aqa-lessons" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -168,12 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701095997051</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Jenkinsfile">
+      <option name="closed" value="true" />
+      <created>1701270676198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701270676198</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="docker done" />
     <MESSAGE value="Reb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reb" />
+    <MESSAGE value="Jenkinsfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkinsfile" />
   </component>
 </project>
